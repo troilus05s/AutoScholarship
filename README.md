@@ -6,13 +6,6 @@ AutoScholarship is a Solidity smart contract that automates scholarship disburse
 
 ## Project Structure
 
-AutoScholarship/
-├── contracts/
-│ └── AutoScholarship.sol
-├── README.md
-└── .gitignore
-
-
 - `contracts/` → Solidity smart contract  
 - `README.md` → Project guide and instructions  
 - `.gitignore` → Ignore unnecessary files
