@@ -4,14 +4,6 @@ AutoScholarship is a Solidity smart contract that automates scholarship disburse
 
 ---
 
-## Project Structure
-
-- `contracts/` → Solidity smart contract  
-- `README.md` → Project guide and instructions  
-- `.gitignore` → Ignore unnecessary files
-
----
-
 ## Step 1: Install Required Tools
 
 1. **MetaMask:** [https://metamask.io/](https://metamask.io/) → Create a wallet.  
